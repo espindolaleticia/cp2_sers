@@ -1,9 +1,11 @@
 # CP2 - SERS
 
 ## Integrantes
+* Felipe Mitsuo Takahashi Stephano RM570692
 * Laura Godoy Callegari — RM569181
 * Letícia Araújo Espindola — RM569308
 * Milena de Aguiar Lopes Cardoso — RM570599
+* Mariana Dreset Carbollan RM569207
 
 ## Objetivo
 
